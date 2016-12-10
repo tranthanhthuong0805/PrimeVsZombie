@@ -1,0 +1,8 @@
+{
+	"Identifier":"44984297-7ded-4dbb-ad0b-dcd229b19183"	, 
+	"Time":"12/10/2016 11:15:44 PM"	, 
+	"Group":231543	, 
+	"DataRecordId":"af0b2c0a-0a87-47c8-b270-52a43e68f647"	, 
+	"Type":1	, 
+	"RecordType":"uFrame.MVVM.CollectionsChildItem, Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\r\n\t\"RelatedType\":\"23f9b807-6c59-479e-98ec-6453f63ced1d\"\t, \r\n\t\"Identifier\":\"af0b2c0a-0a87-47c8-b270-52a43e68f647\"\t, \r\n\t\"NodeId\":\"61edc4bd-8551-4585-bbb8-0d313af2182e\"\t, \r\n\t\"Order\":0\t, \r\n\t\"Name\":\"Zombies\"}\r\n"}

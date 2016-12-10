@@ -1,0 +1,35 @@
+using System;
+using uFrame.MVVM.ViewModels;
+using UnityEngine;
+
+namespace uFrame.MVVM.Views
+{
+    public interface IViewResolver
+    {
+        /// <summary>
+        /// Provides a prefab
+        /// </summary>
+        /// <param name="model">The model for the view prefab we are looking for</param>
+        /// <returns></returns>
+        string FindViewName(ViewModel model);
+        /// <summary>
+        /// Provides a prefab
+        /// </summary>
+        /// <param name="modelType">The modelType for the view prefab we are looking for</param>
+        /// <returns></returns>
+        string FindViewName(Type modelType);
+        /// <summary>
+        /// Provides a prefab
+        /// </summary>
+        /// <param name="model">The model for the view prefab we are looking for</param>
+        /// <returns></returns>
+        GameObject FindView(ViewModel model);
+
+        /// <summary>
+        /// Provides a prefab based off a viewname
+        /// </summary>
+        /// <param name="viewName">The name of the view prefab we are looking for</param>
+        /// <returns></returns>
+        GameObject FindView(string viewName);
+    }
+}

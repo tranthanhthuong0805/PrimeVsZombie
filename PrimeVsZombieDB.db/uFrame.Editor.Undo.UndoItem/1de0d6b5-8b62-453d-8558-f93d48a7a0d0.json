@@ -1,0 +1,8 @@
+{
+	"Identifier":"1de0d6b5-8b62-453d-8558-f93d48a7a0d0"	, 
+	"Time":"12/10/2016 11:16:04 PM"	, 
+	"Group":23164	, 
+	"DataRecordId":"34dabf35-6167-48cf-bbea-b73b568cc8a0"	, 
+	"Type":0	, 
+	"RecordType":"uFrame.MVVM.BindingsReference, Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\r\n\t\"BindingName\":\"BindProperty\"\t, \r\n\t\"SourceIdentifier\":\"5b6a30f9-9a62-46dd-bae4-07bf43ef46a9\"\t, \r\n\t\"Identifier\":\"34dabf35-6167-48cf-bbea-b73b568cc8a0\"\t, \r\n\t\"NodeId\":\"75743bf4-7f35-48ee-8869-aaf8103cffa9\"\t, \r\n\t\"Order\":0}\r\n"}

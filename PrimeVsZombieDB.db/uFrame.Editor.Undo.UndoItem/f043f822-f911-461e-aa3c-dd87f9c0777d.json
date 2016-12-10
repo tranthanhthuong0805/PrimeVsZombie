@@ -1,0 +1,8 @@
+{
+	"Identifier":"f043f822-f911-461e-aa3c-dd87f9c0777d"	, 
+	"Time":"12/7/2016 3:08:30 PM"	, 
+	"Group":15830	, 
+	"DataRecordId":"df754e95-ed64-44d2-a690-9c7df9e370f8"	, 
+	"Type":2	, 
+	"RecordType":"uFrame.MVVM.PropertiesChildItem, Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\r\n\t\"RelatedType\":\"61edc4bd-8551-4585-bbb8-0d313af2182e\"\t, \r\n\t\"Identifier\":\"df754e95-ed64-44d2-a690-9c7df9e370f8\"\t, \r\n\t\"NodeId\":\"af10c21e-d8bd-49a5-9d2c-1a276a3b0f14\"\t, \r\n\t\"Order\":0\t, \r\n\t\"Name\":\"Properties\"}\r\n"}
